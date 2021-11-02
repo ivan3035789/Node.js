@@ -1,0 +1,27 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "customization",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivan3035789/Node.js.git"
+  },
+  "keywords": [
+    "test",
+    "node.js",
+    "npm"
+  ],
+  "author": "ivan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivan3035789/Node.js/issues"
+  },
+  "homepage": "https://github.com/ivan3035789/Node.js#readme",
+  "devDependencies": {
+    "eslint": "^8.1.0"
+  }
+}
